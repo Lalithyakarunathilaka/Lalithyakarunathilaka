@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalithyakarunathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="lalithyakarunathilaka" /> </p>
 
-- 🔭 I’m currently working on **Student Performance Analysis System**
+- 🔭 I’m currently working on **Student Performance Analysis System Project**
 
 - 💬 Ask me about **Java, Python, C**
 
